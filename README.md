@@ -2,17 +2,17 @@
 
 I am using KiCad to build a 6 key Malody keyboard. This is not a skin, it's a physical mechanical keyborad that you can play Malody with.
 
+
 ## Required Materials
 
-In order for this to work, you need to get:
-
-Red Dragon Alien Key Cap and Switches
+Red Dragon Alien Key Cap and Switches or Kailh Big Switch
 
 Custom PCBs
 
 Find em on AliExpress or smth. I'll make a normal sized version after this XXL one.
 
 Custom casing is optional.
+
 
 
 ## License
