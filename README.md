@@ -9,9 +9,12 @@ In order for this to work, you need to get:
 
 ## License
 
-This project is open source, meaning you can get any (and every possible iterations I publish) files of this project and make your own build, you only need to credit me if you use my files. No commercial use is permitted.
+This project is open source, meaning you can get any (and every possible iterations I publish) files of this project and make your own build, you only need to credit me if you use my files.
+
+No commercial use is permitted.
 
 ## Refeneces
 
 ![Keyborad PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) by ruiqimao
+
 ![KiCad](https://www.kicad.org)
