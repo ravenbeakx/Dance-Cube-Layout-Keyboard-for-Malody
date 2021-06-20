@@ -28,3 +28,5 @@ No commercial use is permitted.
 ![KiCad](https://www.kicad.org)
 
 ![GrooveBoard](https://github.com/ianklug/grooveboard) by ianklug and clue
+
+![Kailh Big Switches Footprint](https://github.com/XenGi/kailh_big_series.pretty) by XenGi
