@@ -23,7 +23,7 @@ No commercial use is permitted.
 
 
 
-## Refeneces and Inspirations
+## Refeneces, Resources and Inspirations
 
 ![Keyborad PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) by ruiqimao
 
@@ -32,3 +32,5 @@ No commercial use is permitted.
 ![GrooveBoard](https://github.com/ianklug/grooveboard) by ianklug and clue
 
 ![Kailh Big Switches Footprint](https://github.com/XenGi/kailh_big_series.pretty) by XenGi
+
+![Housings_QFP.pretty](https://github.com/KiCad/Housings_QFP.pretty) by SchrodingersGat
