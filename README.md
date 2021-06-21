@@ -5,7 +5,7 @@ I am using KiCad to build a 6 key Malody keyboard. This is not a skin, it's a ph
 
 ## Required Materials
 
-Red Dragon Alien Key Cap and Switches or Kailh Big Switch,or normal switches and keycaps based on what version you want to build.
+Red Dragon Alien Key Cap and Switches or Kailh Big Switch, or normal switches and keycaps based on what version you want to build.
 
 Custom PCBs
 
@@ -31,6 +31,11 @@ No commercial use is permitted.
 
 ![GrooveBoard](https://github.com/ianklug/grooveboard) by ianklug and clue
 
+![keebs.pretty](https://github.com/egladman/keebs.pretty) by egladman
+
 ![Kailh Big Switches Footprint](https://github.com/XenGi/kailh_big_series.pretty) by XenGi
 
 ![Housings_QFP.pretty](https://github.com/KiCad/Housings_QFP.pretty) by SchrodingersGat
+
+![KiCad-keyboard-matrix-generator](https://github.com/arjhun/KiCad-keyboard-matrix-generator) by arjhun
+
