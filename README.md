@@ -9,7 +9,7 @@ Red Dragon Alien Key Cap and Switches or Kailh Big Switch, or normal switches an
 
 Custom PCBs
 
-Find em on AliExpress or smth. I'll make a normal sized version after this XXL one.
+Find em on AliExpress or smth.
 
 Custom casing is optional.
 
