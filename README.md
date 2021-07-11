@@ -41,3 +41,4 @@ No commercial use is permitted.
 
 ![Kailh Switch Datasheets](https://github.com/keyboardio/keyswitch_documentation/tree/master/datasheets/Kailh) by obra
 
+![Keyboard Matrix Anti-ghosting Help](https://www.dribin.org/dave/keyboard/one_html/) by Dave Dribin
