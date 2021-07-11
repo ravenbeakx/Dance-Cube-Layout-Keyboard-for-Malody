@@ -39,3 +39,5 @@ No commercial use is permitted.
 
 ![KiCad-keyboard-matrix-generator](https://github.com/arjhun/KiCad-keyboard-matrix-generator) by arjhun
 
+![Kailh Switch Datasheets](https://github.com/keyboardio/keyswitch_documentation/tree/master/datasheets/Kailh) by obra
+
