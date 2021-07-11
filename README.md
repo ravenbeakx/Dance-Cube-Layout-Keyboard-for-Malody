@@ -5,13 +5,13 @@ I am using KiCad to build a 6 key Malody keyboard. This is not a skin, it's a ph
 
 ## Required Materials
 
-Red Dragon Alien Key Cap and Switches or Kailh Big Switch, or normal switches and keycaps based on what version you want to build.
+Cherry switches of your choice, or Kailh Choc switches(based on what version you want to build)
 
 Custom PCBs
 
 Find em on AliExpress or smth.
 
-Custom casing is optional.
+Custom plexiglass casing is optional.
 
 
 
